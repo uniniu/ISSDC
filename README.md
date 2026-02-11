@@ -1,3 +1,3 @@
 # ISSDC
-Interactive educational web application for students
+Interactive educational web application for HS students
 
